@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="NeedIt Virtual Agent Conversations">cdedd1b897e511106afff5b3f153af80</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 14:26:02</sys_created_on>
+        <sys_id>e0d75dc1976111106afff5b3f153af40</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VAPublisherReferenceChoiceCustomFormatter</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_805355_needit_vi">cdedd1b897e511106afff5b3f153af80</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">cdedd1b897e511106afff5b3f153af80</sys_scope>
+        <sys_update_name>sys_scope_privilege_e0d75dc1976111106afff5b3f153af40</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 14:26:02</sys_updated_on>
+        <target_name>VAPublisherReferenceChoiceCustomFormatter</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_script_include</target_type>
+    </sys_scope_privilege>
+</record_update>
